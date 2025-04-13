@@ -10,8 +10,7 @@ function Data() {
         <img src={hand} alt="hand" />
       </h1>
       <h3 className="home_subtitle">Fullstack Developer</h3>
-      <p className="home_description">A fullstack developer builds both frontend and backend systems, ensuring seamless integration, functionality, 
-        and user experience across applications.</p>
+      <p className="home_description">A fullstack developer builds both frontend and backend systems, ensuring seamless integration, functionality,and user experience across applications.</p>
 
     <a href="#contact" className="button button--flex">
         Say Hello
